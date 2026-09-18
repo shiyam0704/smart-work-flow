@@ -1,0 +1,1 @@
+export type FieldType = "text" | "number" | "date" | "select" | "checkbox" | "url" | "file";
